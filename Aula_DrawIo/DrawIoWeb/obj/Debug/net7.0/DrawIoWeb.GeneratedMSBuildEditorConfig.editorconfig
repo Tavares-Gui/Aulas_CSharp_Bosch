@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DrawIoWeb
+build_property.RootNamespace = DrawIoWeb
+build_property.ProjectDir = s:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\C# Avançado\drawio\DrawIoWeb\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = s:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\C# Avançado\drawio\DrawIoWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[s:/COM/Human_Resources/01.Engineering_Tech_School/02.Internal/5 - Aprendizes/2 - Desenvolvimento de Sistemas/3 - Desenvolvimento de Sistemas 2023/01 - Arquivos a serem disponibilizados/C\# Avançado/drawio/DrawIoWeb/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[s:/COM/Human_Resources/01.Engineering_Tech_School/02.Internal/5 - Aprendizes/2 - Desenvolvimento de Sistemas/3 - Desenvolvimento de Sistemas 2023/01 - Arquivos a serem disponibilizados/C\# Avançado/drawio/DrawIoWeb/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[s:/COM/Human_Resources/01.Engineering_Tech_School/02.Internal/5 - Aprendizes/2 - Desenvolvimento de Sistemas/3 - Desenvolvimento de Sistemas 2023/01 - Arquivos a serem disponibilizados/C\# Avançado/drawio/DrawIoWeb/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[s:/COM/Human_Resources/01.Engineering_Tech_School/02.Internal/5 - Aprendizes/2 - Desenvolvimento de Sistemas/3 - Desenvolvimento de Sistemas 2023/01 - Arquivos a serem disponibilizados/C\# Avançado/drawio/DrawIoWeb/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[s:/COM/Human_Resources/01.Engineering_Tech_School/02.Internal/5 - Aprendizes/2 - Desenvolvimento de Sistemas/3 - Desenvolvimento de Sistemas 2023/01 - Arquivos a serem disponibilizados/C\# Avançado/drawio/DrawIoWeb/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[s:/COM/Human_Resources/01.Engineering_Tech_School/02.Internal/5 - Aprendizes/2 - Desenvolvimento de Sistemas/3 - Desenvolvimento de Sistemas 2023/01 - Arquivos a serem disponibilizados/C\# Avançado/drawio/DrawIoWeb/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[s:/COM/Human_Resources/01.Engineering_Tech_School/02.Internal/5 - Aprendizes/2 - Desenvolvimento de Sistemas/3 - Desenvolvimento de Sistemas 2023/01 - Arquivos a serem disponibilizados/C\# Avançado/drawio/DrawIoWeb/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6a88chf4sj
+
+[s:/COM/Human_Resources/01.Engineering_Tech_School/02.Internal/5 - Aprendizes/2 - Desenvolvimento de Sistemas/3 - Desenvolvimento de Sistemas 2023/01 - Arquivos a serem disponibilizados/C\# Avançado/drawio/DrawIoWeb/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c3pzp4gwqq
+
+[s:/COM/Human_Resources/01.Engineering_Tech_School/02.Internal/5 - Aprendizes/2 - Desenvolvimento de Sistemas/3 - Desenvolvimento de Sistemas 2023/01 - Arquivos a serem disponibilizados/C\# Avançado/drawio/DrawIoWeb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[s:/COM/Human_Resources/01.Engineering_Tech_School/02.Internal/5 - Aprendizes/2 - Desenvolvimento de Sistemas/3 - Desenvolvimento de Sistemas 2023/01 - Arquivos a serem disponibilizados/C\# Avançado/drawio/DrawIoWeb/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

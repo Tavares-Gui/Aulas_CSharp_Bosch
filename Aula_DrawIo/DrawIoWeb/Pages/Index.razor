@@ -1,0 +1,40 @@
+﻿@page "/"
+@using DrawIo;
+@using System.Drawing;
+@using Blazor.Extensions;
+@using Blazor.Extensions.Canvas
+@using Blazor.Extensions.Canvas.Canvas2D;
+ 
+<BECanvas Width="600" Height="400" @ref="_canvasReference"></BECanvas>
+ 
+<br/>
+<button @onclick="Adicionar">Adicionar</button>
+ 
+@code
+{
+    private Canvas2DContext _context;
+    protected BECanvasComponent _canvasReference;
+    private WebVisualBehavior vb;
+     
+    private Project prj;
+    int elements = 0;
+ 
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        this._context = await this._canvasReference.CreateCanvas2DAsync();
+        vb = new WebVisualBehavior(_context);
+ 
+        prj = new Project();
+ 
+        await prj.Draw();
+    }
+     
+    private async void Adicionar()
+    {
+        elements++;
+        ClassBox box = new ClassBox(vb, new PointF(50 + 20 * elements, 50 + 20 * elements));
+        prj.Add(box);
+         
+        await prj.Draw();
+    }
+}

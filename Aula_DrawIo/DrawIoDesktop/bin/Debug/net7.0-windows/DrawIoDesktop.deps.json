@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DrawIoDesktop/1.0.0": {
+        "dependencies": {
+          "DrawIoLib": "1.0.0"
+        },
+        "runtime": {
+          "DrawIoDesktop.dll": {}
+        }
+      },
+      "DrawIoLib/1.0.0": {
+        "runtime": {
+          "DrawIoLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DrawIoDesktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DrawIoLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

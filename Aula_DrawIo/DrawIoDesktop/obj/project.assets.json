@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "DrawIoLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DrawIoLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DrawIoLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DrawIoLib/1.0.0": {
+      "type": "project",
+      "path": "../DrawIoLib/DrawIoLib.csproj",
+      "msbuildProject": "../DrawIoLib/DrawIoLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "DrawIoLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sii5ct\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoDesktop\\DrawIoDesktop.csproj",
+      "projectName": "DrawIoDesktop",
+      "projectPath": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoDesktop\\DrawIoDesktop.csproj",
+      "packagesPath": "C:\\Users\\sii5ct\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoDesktop\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sii5ct\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoLib\\DrawIoLib.csproj": {
+              "projectPath": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoLib\\DrawIoLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

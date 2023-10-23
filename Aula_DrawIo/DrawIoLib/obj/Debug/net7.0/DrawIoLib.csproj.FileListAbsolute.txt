@@ -1,0 +1,11 @@
+C:\Users\sii5ct\Desktop\drawio\DrawIoLib\bin\Debug\net7.0\DrawIoLib.deps.json
+C:\Users\sii5ct\Desktop\drawio\DrawIoLib\bin\Debug\net7.0\DrawIoLib.dll
+C:\Users\sii5ct\Desktop\drawio\DrawIoLib\bin\Debug\net7.0\DrawIoLib.pdb
+C:\Users\sii5ct\Desktop\drawio\DrawIoLib\obj\Debug\net7.0\DrawIoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sii5ct\Desktop\drawio\DrawIoLib\obj\Debug\net7.0\DrawIoLib.AssemblyInfoInputs.cache
+C:\Users\sii5ct\Desktop\drawio\DrawIoLib\obj\Debug\net7.0\DrawIoLib.AssemblyInfo.cs
+C:\Users\sii5ct\Desktop\drawio\DrawIoLib\obj\Debug\net7.0\DrawIoLib.csproj.CoreCompileInputs.cache
+C:\Users\sii5ct\Desktop\drawio\DrawIoLib\obj\Debug\net7.0\DrawIoLib.dll
+C:\Users\sii5ct\Desktop\drawio\DrawIoLib\obj\Debug\net7.0\refint\DrawIoLib.dll
+C:\Users\sii5ct\Desktop\drawio\DrawIoLib\obj\Debug\net7.0\DrawIoLib.pdb
+C:\Users\sii5ct\Desktop\drawio\DrawIoLib\obj\Debug\net7.0\ref\DrawIoLib.dll
