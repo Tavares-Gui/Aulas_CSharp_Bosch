@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoDesktop\\DrawIoDesktop.csproj": {}
+    "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoDesktop\\DrawIoDesktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoDesktop\\DrawIoDesktop.csproj": {
+    "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoDesktop\\DrawIoDesktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoDesktop\\DrawIoDesktop.csproj",
+        "projectUniqueName": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoDesktop\\DrawIoDesktop.csproj",
         "projectName": "DrawIoDesktop",
-        "projectPath": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoDesktop\\DrawIoDesktop.csproj",
-        "packagesPath": "C:\\Users\\sii5ct\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoDesktop\\obj\\",
+        "projectPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoDesktop\\DrawIoDesktop.csproj",
+        "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoDesktop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sii5ct\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0-windows"
@@ -26,8 +26,8 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoLib\\DrawIoLib.csproj": {
-                "projectPath": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoLib\\DrawIoLib.csproj"
+              "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoLib\\DrawIoLib.csproj": {
+                "projectPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoLib\\DrawIoLib.csproj"
               }
             }
           }
@@ -64,17 +64,17 @@
         }
       }
     },
-    "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoLib\\DrawIoLib.csproj": {
+    "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoLib\\DrawIoLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoLib\\DrawIoLib.csproj",
+        "projectUniqueName": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoLib\\DrawIoLib.csproj",
         "projectName": "DrawIoLib",
-        "projectPath": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoLib\\DrawIoLib.csproj",
-        "packagesPath": "C:\\Users\\sii5ct\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoLib\\obj\\",
+        "projectPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoLib\\DrawIoLib.csproj",
+        "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sii5ct\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

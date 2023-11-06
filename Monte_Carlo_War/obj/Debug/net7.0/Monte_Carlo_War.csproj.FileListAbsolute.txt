@@ -1,0 +1,14 @@
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\bin\Debug\net7.0\Monte_Carlo_War.exe
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\bin\Debug\net7.0\Monte_Carlo_War.deps.json
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\bin\Debug\net7.0\Monte_Carlo_War.runtimeconfig.json
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\bin\Debug\net7.0\Monte_Carlo_War.dll
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\bin\Debug\net7.0\Monte_Carlo_War.pdb
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\obj\Debug\net7.0\Monte_Carlo_War.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\obj\Debug\net7.0\Monte_Carlo_War.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\obj\Debug\net7.0\Monte_Carlo_War.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\obj\Debug\net7.0\Monte_Carlo_War.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\obj\Debug\net7.0\Monte_Carlo_War.dll
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\obj\Debug\net7.0\refint\Monte_Carlo_War.dll
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\obj\Debug\net7.0\Monte_Carlo_War.pdb
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\obj\Debug\net7.0\Monte_Carlo_War.genruntimeconfig.cache
+C:\Users\disrct\Desktop\Aulas_CSharp\Monte_Carlo_War\obj\Debug\net7.0\ref\Monte_Carlo_War.dll

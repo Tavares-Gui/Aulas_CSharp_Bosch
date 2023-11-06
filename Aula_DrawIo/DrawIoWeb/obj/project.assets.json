@@ -443,19 +443,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sii5ct\\.nuget\\packages\\": {}
+    "C:\\Users\\disrct\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoWeb\\DrawIoWeb.csproj",
+      "projectUniqueName": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoWeb\\DrawIoWeb.csproj",
       "projectName": "DrawIoWeb",
-      "projectPath": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoWeb\\DrawIoWeb.csproj",
-      "packagesPath": "C:\\Users\\sii5ct\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoWeb\\obj\\",
+      "projectPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoWeb\\DrawIoWeb.csproj",
+      "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sii5ct\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -467,8 +467,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoLib\\DrawIoLib.csproj": {
-              "projectPath": "C:\\Users\\sii5ct\\Desktop\\drawio\\DrawIoLib\\DrawIoLib.csproj"
+            "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoLib\\DrawIoLib.csproj": {
+              "projectPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoLib\\DrawIoLib.csproj"
             }
           }
         }

@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula_DrawIo", "Aula_DrawIo", "{145CFC29-9865-4D2C-BBD1-827A437AF2BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawIoDesktop", "Aula_DrawIo\DrawIoDesktop\DrawIoDesktop.csproj", "{82384FB0-FA14-41DC-8CF8-EA085ED1A3A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawIoLib", "Aula_DrawIo\DrawIoLib\DrawIoLib.csproj", "{10992BE8-10DD-4B85-B0DA-2D29EE1D7A80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawIoWeb", "Aula_DrawIo\DrawIoWeb\DrawIoWeb.csproj", "{9D0974B5-D68C-4F72-AB5D-A59AA4699C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82384FB0-FA14-41DC-8CF8-EA085ED1A3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82384FB0-FA14-41DC-8CF8-EA085ED1A3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82384FB0-FA14-41DC-8CF8-EA085ED1A3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82384FB0-FA14-41DC-8CF8-EA085ED1A3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10992BE8-10DD-4B85-B0DA-2D29EE1D7A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10992BE8-10DD-4B85-B0DA-2D29EE1D7A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10992BE8-10DD-4B85-B0DA-2D29EE1D7A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10992BE8-10DD-4B85-B0DA-2D29EE1D7A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0974B5-D68C-4F72-AB5D-A59AA4699C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0974B5-D68C-4F72-AB5D-A59AA4699C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0974B5-D68C-4F72-AB5D-A59AA4699C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0974B5-D68C-4F72-AB5D-A59AA4699C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{82384FB0-FA14-41DC-8CF8-EA085ED1A3A8} = {145CFC29-9865-4D2C-BBD1-827A437AF2BF}
+		{10992BE8-10DD-4B85-B0DA-2D29EE1D7A80} = {145CFC29-9865-4D2C-BBD1-827A437AF2BF}
+		{9D0974B5-D68C-4F72-AB5D-A59AA4699C70} = {145CFC29-9865-4D2C-BBD1-827A437AF2BF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A404AF-B8AB-4DDB-9DD2-BC2749ACAE71}
+	EndGlobalSection
+EndGlobal

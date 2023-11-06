@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoLib\\DrawIoLib.csproj",
-      "projectName": "DrawIoLib",
-      "projectPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoLib\\DrawIoLib.csproj",
+      "projectUniqueName": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Monte_Carlo_War\\Monte_Carlo_War.csproj",
+      "projectName": "Monte_Carlo_War",
+      "projectPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Monte_Carlo_War\\Monte_Carlo_War.csproj",
       "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Aula_DrawIo\\DrawIoLib\\obj\\",
+      "outputPath": "C:\\Users\\disrct\\Desktop\\Aulas_CSharp\\Monte_Carlo_War\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config"
