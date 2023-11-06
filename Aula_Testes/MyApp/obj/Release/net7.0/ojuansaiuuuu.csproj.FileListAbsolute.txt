@@ -1,0 +1,14 @@
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\bin\Release\net7.0\ojuansaiuuuu.exe
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\bin\Release\net7.0\ojuansaiuuuu.deps.json
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\bin\Release\net7.0\ojuansaiuuuu.runtimeconfig.json
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\bin\Release\net7.0\ojuansaiuuuu.dll
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\bin\Release\net7.0\ojuansaiuuuu.pdb
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\obj\Release\net7.0\ojuansaiuuuu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\obj\Release\net7.0\ojuansaiuuuu.AssemblyInfoInputs.cache
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\obj\Release\net7.0\ojuansaiuuuu.AssemblyInfo.cs
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\obj\Release\net7.0\ojuansaiuuuu.csproj.CoreCompileInputs.cache
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\obj\Release\net7.0\ojuansaiuuuu.dll
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\obj\Release\net7.0\refint\ojuansaiuuuu.dll
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\obj\Release\net7.0\ojuansaiuuuu.pdb
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\obj\Release\net7.0\ojuansaiuuuu.genruntimeconfig.cache
+C:\Users\sii5ct\Desktop\ojuansaiuuuu\obj\Release\net7.0\ref\ojuansaiuuuu.dll
